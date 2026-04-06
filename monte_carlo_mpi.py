@@ -3,7 +3,7 @@ import random
 import time
 
 # Общее количество итераций
-TOTAL_ITERATIONS = 100000000
+TOTAL_ITERATIONS = 10000000
 
 def main():
     # 1. Инициализация MPI
